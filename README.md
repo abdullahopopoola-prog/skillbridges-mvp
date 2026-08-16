@@ -152,6 +152,34 @@ The goal is to demonstrate this complete experience in a simple, polished protot
 
 ---
 
+## 🖥️ Landing Page (Live in This Repo)
+
+The repository root now contains a working **React marketing landing page** for
+SkillBridge's skills-rental marketplace concept — the first visual artifact of
+the MVP. It's built with **Vite + React + TypeScript + Tailwind CSS** (a
+lighter setup than the eventual Next.js app) so it's fast to iterate on while
+the rest of the product is being built.
+
+### Run it locally
+
+```bash
+npm install
+npm run dev      # starts the dev server
+npm run build    # production build to dist/
+npm run lint     # oxlint
+```
+
+### What's included
+
+* Hero section with the core value proposition
+* Problem framing (why hiring for short-term work is broken today)
+* Interactive "How it works" toggle (renter vs. talent flows)
+* Feature highlights (verification, flexible rental terms, readiness score, secure payments, matching, reviews)
+* "Who it's for" audience grid (students, artisans, freelancers, businesses, mentors)
+* Early-access waitlist call-to-action
+
+---
+
 ## 📁 Repository Structure
 
 ```text
