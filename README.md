@@ -62,9 +62,7 @@ To support disciplined execution, this repository is organized into 10 operation
 ==================================================
 * Popoola Abdullahi — Founder / Chief Executive Officer (Mechatronics Engineering, FUTMinna)
 * 
-* Habeebullah Zakariya — Chief Product Officer (Mechatronics Engineering, FUTMinna)
-* Afolabi Sulaiman Olorunyomi — Chief Operating Officer (Medical Laboratory Science, FUTMinna)
-
+  
 --------------------------------------------------
 FEMBOL Student Innovation Grant (SIG 2.0) Project
 Federal University of Technology, Minna (FUTMinna)
