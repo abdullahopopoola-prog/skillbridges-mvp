@@ -1,290 +1,75 @@
-# SkillBridge 🚀
+# SkillBridge
+
+Your AI Career Companion — Helping People Move from Learning to Earning
+
+SkillBridge is an AI Career Intelligence Platform designed to help people understand their strengths, identify career gaps, build proof of ability, and discover relevant opportunities. We believe talent should not be limited by educational background alone.
+
+==================================================
+1. LIVE PRODUCT LINKS
+==================================================
+* Interactive Prototype: https://skill-bridge-ai--popoolaabdullah.replit.app/
+
+==================================================
+2. THE PROBLEM
+==================================================
+The journey from learning to earning is fragmented. People switch constantly between disconnected platforms for learning, searching for jobs, finding grants, and getting guidance. Even when opportunities exist, users struggle with two questions:
+- "Am I actually ready for this opportunity?"
+- "What specific steps should I take next?"
+
+==================================================
+3. OUR SOLUTION & CORE JOURNEY
+==================================================
+Instead of acting as just another job board, SkillBridge unifies career growth into an intelligent ecosystem:
+
+Understand Yourself -> Measure Readiness -> Identify Gaps -> Build Career Roadmap -> Discover Opportunities -> Take Action
+
+Core MVP Features:
+* AI Career Companion: Personalized assistant guiding goals, skills, and progress.
+* Career Readiness Score: A clear metric evaluating pathway preparedness.
+* Talent Profile / Passport: Dynamic profile focused on practical ability rather than certificates alone.
+* Career Roadmap: Step-by-step guidance on what to learn, build, or improve.
+* Opportunity Matching: Personalized matching for internships, jobs, hackathons, grants, and freelance gigs.
+* Career Insights: Actionable analysis explaining personal strengths and growth areas.
+
+==================================================
+4. WHO IS SKILLBRIDGE FOR?
+==================================================
+While the MVP focuses primarily on the student experience, the platform is built for:
+* Students: University undergraduates building career readiness.
+* Graduates: Job seekers establishing proof of practical skills.
+* Artisans: Mechanics, tailors, electricians, and carpenters proving practical work.
+* Vocational Learners: Individuals developing practical trades.
+* Freelancers & Employers: Independent talent and hiring organizations.
+
+==================================================
+5. STARTUP OS DIRECTORY ARCHITECTURE
+==================================================
+To support disciplined execution, this repository is organized into 10 operational modules:
+
+* 01_vision_strategy/ : Core mission, North Star metrics, and startup strategy.
+* 02_product/ : PRDs, Talent Passport specs, and feature documentation.
+* 03_user_research/ : FUTMinna student survey data and artisan field research.
+* 04_technology/ : Core codebases, localized NLP skill parsing, and system architecture.
+* 05_marketing_growth/ : Campus ambassador playbooks and user acquisition loops.
+* 06_business_finance/ : B2B monetization models and FEMBOL SIG 2.0 grant tracking.
+* 07_team/ : Contributor roles, RACI matrix, and internal task assignments.
+* 08_experiments/ : 50-user pilot tracking and feature feedback logs.
+* 09_opportunities/ : Strategic pivots, competition pipelines, and IP research.
+* 10_master_doc/ : Executive summary and core pitch deck assets.
+
+==================================================
+6. CORE FOUNDING TEAM
+==================================================
+* Popoola Abdullahi — Founder / Chief Executive Officer (Mechatronics Engineering, FUTMinna)
+* 
+* Habeebullah Zakariya — Chief Product Officer (Mechatronics Engineering, FUTMinna)
+* Afolabi Sulaiman Olorunyomi — Chief Operating Officer (Medical Laboratory Science, FUTMinna)
+
+--------------------------------------------------
+FEMBOL Student Innovation Grant (SIG 2.0) Project
+Federal University of Technology, Minna (FUTMinna)
+--------------------------------------------------
 
-### Your AI Career Companion — Helping People Move from Learning to Earning
-
-SkillBridge is an **AI Career Intelligence Platform** designed to help people understand their strengths, identify their career gaps, discover relevant opportunities, and take meaningful steps toward their goals.
-
-We believe **talent should not be limited by educational background**.
-
-SkillBridge is being designed to serve both formal and informal learners—from university students and graduates to freelancers, vocational learners, and artisans.
-
----
-
-## 🎯 The Problem
-
-The journey from **learning to earning is fragmented**.
-
-People often have to use different platforms for:
-
-* Learning skills
-* Finding internships
-* Searching for jobs
-* Discovering hackathons
-* Finding grants and scholarships
-* Building portfolios
-* Getting career guidance
-
-Even when opportunities exist, many people don't know:
-
-> **"Am I actually ready for this opportunity?"**
-
-And more importantly:
-
-> **"What should I do next?"**
-
----
-
-## 💡 Our Solution
-
-SkillBridge brings career intelligence into one ecosystem.
-
-Instead of simply showing users opportunities, SkillBridge helps them understand **where they currently stand, what they are missing, and what they should do next.**
-
-### The core journey:
-
-```text
-Understand Yourself
-       ↓
-Measure Readiness
-       ↓
-Identify Gaps
-       ↓
-Build a Career Roadmap
-       ↓
-Discover Opportunities
-       ↓
-Take Action
-```
-
----
-
-## ✨ Core MVP Features
-
-### 🧠 AI Career Companion
-
-A personalized AI assistant that provides career guidance based on the user's goals, skills, and progress.
-
-### 📊 Career Readiness Score
-
-A simple, understandable score that helps users understand how prepared they are for their desired career path.
-
-### 🧬 Talent Profile
-
-A dynamic profile focused on what a person can **do**, not merely what certificates they possess.
-
-### 🗺️ Career Roadmap
-
-Personalized recommendations showing what the user should learn, build, or improve next.
-
-### 🎯 Opportunity Matching
-
-Relevant opportunities—including internships, hackathons, grants, scholarships, jobs, and freelance opportunities—matched to the user's profile.
-
-### 💡 Career Insights
-
-Actionable insights explaining strengths, weaknesses, and potential next steps.
-
----
-
-## 🌍 Who Is SkillBridge For?
-
-SkillBridge is designed to eventually support:
-
-| User                    | Example                                       |
-| ----------------------- | --------------------------------------------- |
-| 🎓 Students             | University students building career readiness |
-| 👨‍💻 Graduates         | Graduates seeking employment                  |
-| 🧑‍🔧 Artisans          | Tailors, mechanics, carpenters, etc.          |
-| 🛠️ Vocational Learners | People learning practical skills              |
-| 💼 Freelancers          | Independent professionals                     |
-| 🏢 Employers            | Organizations searching for talent            |
-| 🧑‍🏫 Mentors           | Professionals guiding emerging talent         |
-
-The MVP focuses primarily on the **student experience**, while the architecture is designed to expand to other user groups.
-
----
-
-## 🧪 MVP User Journey
-
-```text
-Landing Page
-      ↓
-AI Onboarding
-      ↓
-Career Readiness Reveal
-      ↓
-Career Intelligence Dashboard
-      ↓
-AI Career Companion
-      ↓
-Opportunity Matching
-```
-
-The goal is to demonstrate this complete experience in a simple, polished prototype.
-
----
-
-## 🏗️ Technology Stack
-
-### Frontend
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-* Framer Motion
-* Lucide Icons
-
-### Backend
-
-* Supabase
-* PostgreSQL
-
-### AI
-
-* LLM-powered Career Intelligence Engine
-
-### Deployment
-
-* Vercel
-* Replit-compatible development environment
-
----
-
-## 🖥️ Landing Page (Live in This Repo)
-
-The repository root now contains a working **React marketing landing page** for
-SkillBridge's skills-rental marketplace concept — the first visual artifact of
-the MVP. It's built with **Vite + React + TypeScript + Tailwind CSS** (a
-lighter setup than the eventual Next.js app) so it's fast to iterate on while
-the rest of the product is being built.
-
-### Run it locally
-
-```bash
-npm install
-npm run dev      # starts the dev server
-npm run build    # production build to dist/
-npm run lint     # oxlint
-```
-
-### What's included
-
-* Hero section with the core value proposition
-* Problem framing (why hiring for short-term work is broken today)
-* Interactive "How it works" toggle (renter vs. talent flows)
-* Feature highlights (verification, flexible rental terms, readiness score, secure payments, matching, reviews)
-* "Who it's for" audience grid (students, artisans, freelancers, businesses, mentors)
-* Early-access waitlist call-to-action
-
----
-
-## 📁 Repository Structure
-
-```text
-skillbridge-mvp/
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-│
-├── docs/
-│   ├── 01-executive-summary.md
-│   ├── 02-product-vision.md
-│   ├── 03-prd.md
-│   ├── 04-srs.md
-│   ├── 05-ui-ux.md
-│   ├── 06-engineering-blueprint.md
-│   ├── 07-claude-build-instructions.md
-│   └── 08-master-build-prompt.md
-│
-├── prototype/
-│
-├── pitch/
-│
-├── research/
-│
-├── assets/
-│
-└── app/
-```
-
----
-
-## 🚧 Current Status
-
-**Stage:** MVP Development
-
-The current focus is building and validating the first end-to-end prototype.
-
-### Completed
-
-* [x] Product vision
-* [x] Product requirements
-* [x] Software requirements
-* [x] UI/UX specification
-* [x] Engineering blueprint
-* [x] Claude build instructions
-* [x] Master build prompt
-* [x] GitHub repository
-
-### In Progress
-
-* [ ] MVP prototype
-* [ ] UI implementation
-* [ ] AI Career Companion
-* [ ] Opportunity matching
-* [ ] Backend integration
-* [ ] Deployment
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1 — MVP
-
-* AI onboarding
-* Career Readiness Score
-* Talent Profile
-* Career Intelligence Dashboard
-* AI Career Companion
-* Opportunity Matching
-
-### Phase 2 — Expansion
-
-* Talent Passport
-* AI portfolio builder
-* AI interview coach
-* Mentor matching
-* Employer portal
-
-### Phase 3 — Inclusion
-
-* Voice-first interaction
-* Local language support
-* Low-bandwidth experience
-* SMS/WhatsApp accessibility
-
-### Phase 4 — Advanced Intelligence
-
-* Multimodal skill verification
-* Verified Talent Passport
-* Autonomous Career Agent
-* Intelligent opportunity applications
-
----
-
-## 🌱 Our Vision
-
-SkillBridge aims to help create a world where:
-
-> **Where you started does not determine how far you can go.**
-
-Whether someone is a university student, a self-taught developer, a tailor, a mechanic, a freelancer, or a vocational learner, their **skills, potential, and ability to create value should have a pathway to opportunity.**
-
----
 
 ## 🤝 Contributing
 
